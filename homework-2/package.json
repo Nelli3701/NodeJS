@@ -1,0 +1,12 @@
+{
+  "name": "figures_get_area",
+  "version": "1.0.0",
+  "description": "Find the area of geometric shapes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Victoria Ryabchenko",
+  "license": "ISC"
+}
